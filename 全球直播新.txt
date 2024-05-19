@@ -2128,13 +2128,13 @@ Charm HD,http://ca.ukrainske.tv/7141/DF9D16B4057FD00/video.m3u8
 日本映画専門,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 日本映画専門,http://103.36.32.14:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 映画・チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-亚洲Mhttp://119.192.58.101:9981/stream/channelid/1693327149?ticket=C307294F2BEEF4523E7B2174A68422B3C7B7631B&profile=pass
-独立电影http://119.192.58.101:9981/stream/channelid/1493324559?ticket=067B1D27FEAA07CBF20BBAAD37EACC9A8433B42E&profile=pass
-The Moviehttp://119.192.58.101:9981/stream/channelid/1030988562?ticket=EC6F46569792E0A28BC64DF49D03944EB11C59A7&profile=pass
+亚洲M,http://119.192.58.101:9981/stream/channelid/1693327149?ticket=C307294F2BEEF4523E7B2174A68422B3C7B7631B&profile=pass
+独立电影,http://119.192.58.101:9981/stream/channelid/1493324559?ticket=067B1D27FEAA07CBF20BBAAD37EACC9A8433B42E&profile=pass
+The Movie,http://119.192.58.101:9981/stream/channelid/1030988562?ticket=EC6F46569792E0A28BC64DF49D03944EB11C59A7&profile=pass
 sex art,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6253/index.m3u8
 sex art,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
-Sex Prive http://voz.one:80/alexfnt/vTFBGKdUYq/45642?
-Redlight HDhttp://51.159.102.100/RedlightHD/index.m3u8
+Sex Prive ,http://voz.one:80/alexfnt/vTFBGKdUYq/45642?
+Redlight HD,http://51.159.102.100/RedlightHD/index.m3u8
 Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
@@ -2153,14 +2153,14 @@ Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 Eroxxx HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
 Eroxxx HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
 Eroxxx HD,http://ca.ukrainske.tv/596/3530225EDBD6B16/video.m3u8
-http://ca.ukrainske.tv/596/DF9D16B4057FD00/video.m3u8
+Eroxxx HD1,http://ca.ukrainske.tv/596/DF9D16B4057FD00/video.m3u8
 Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
 XXL,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
 Blue Hustler,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
 Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 Dream Porn,http://185.182.193.203:25461/alibombom82/YY1xzM55u0/65900
 U PLAY,http://dns.p2.wtf/maria1305/1305maria/97843
-Sexy Hot HDhttp://200.146.229.129:8000/play/a00w
+Sexy Hot HD,http://200.146.229.129:8000/play/a00w
 O-la-la,http://195.181.160.177:8000/dEnteRNaCt?token=ihwvhvl55bxyc5monync7vjz
 VENUS,http://168.181.122.234:8000/play/a027/index.m3u8
 Venus,http://38.41.8.1:8000/play/a07w
@@ -2179,7 +2179,7 @@ SexArt,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6253/index.m3u8
 SexArt,http://185.182.193.203:25461/brianlstark/433754/66795
 SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
 sext 6 senso,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6254/index.m3u8
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6254/index.m3u8
+sext 6 senso,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6254/index.m3u8
 sext 6 senso,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6254/index.m3u8
 Pornstar Red TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6243/index.m3u8
 POV Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
@@ -2195,40 +2195,40 @@ LOIRAS SAFADAS +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/90695670
 MIA KHALIFA +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/76713
 RETRO +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82171
 SEXO NA PRAIA +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/83248
-Zoom TVhttp://178.219.128.68:64889/ZOOMTVHD
-Zoom TVhttp://37.48.101.149:7018/play/a01u/index.m3u8
+Zoom TV,http://178.219.128.68:64889/ZOOMTVHD
+Zoom TV,http://37.48.101.149:7018/play/a01u/index.m3u8
 Japan HDV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6225/index.m3u8
-IPPAhttp://37.49.225.197:8080/linuxapp2023/THKDLbhZj5XFvf6R    /297092?
-IPPAhttp://37.49.225.197:8080/64921423/a826570920/297092?
+IPPA,http://37.49.225.197:8080/linuxapp2023/THKDLbhZj5XFvf6R    /297092?
+IPPA,http://37.49.225.197:8080/64921423/a826570920/297092?
 Latina Red TV,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6226/index.m3u8
 Brazzers HD,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
 Playboy Plus,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
 Play boy,http://195.181.160.177:8000/slEStOnTic?token=ihwvhvl55bxyc5monync7vjz
 Play boy,http://bigteisti3.cdn.lifeyosso.fun:8080/playboy/video.m3u8?token=QkxBREV8fE5UWnhOalJ4TXpWeA==
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Play boy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Erox,http://94.229.250.73:8008/play/a002
 Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 Blue Hustler,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
 Eroxxx,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-Brazzers TVhttp://rebrov.tvfor.pro/bUgErTSErI/ihwvhvl55bxyc5monync7vjz
+Brazzers TV,http://rebrov.tvfor.pro/bUgErTSErI/ihwvhvl55bxyc5monync7vjz
 Blue Hustler,http://rebrov.tvfor.pro/fU36p77FmV/ihwvhvl55bxyc5monync7vjz
-Шалун HDhttp://rebrov.tvfor.pro/XIoNGerGEN/ihwvhvl55bxyc5monync7vjz
-BANGhttp://neczmabfa.to:80/play/lvPBKiVUuDKo7jxTcbBxusLvLx4t17K2HSEsu3VIBgD9ZWcnE7-xsoZrHz4xXYov
+Шалун HD,http://rebrov.tvfor.pro/XIoNGerGEN/ihwvhvl55bxyc5monync7vjz
+BANG,http://neczmabfa.to:80/play/lvPBKiVUuDKo7jxTcbBxusLvLx4t17K2HSEsu3VIBgD9ZWcnE7-xsoZrHz4xXYov
 Threesome,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
-tshttp://185.235.165.5:80/live/gasolina/gasolina/773985.ts
+ts,http://185.235.165.5:80/live/gasolina/gasolina/773985.ts
 girls live,https://live.mycamtv.com/stream.m3u8
 XXL,https://cdn-main.lolokoko.tv/xxl.stream/chunks.m3u8
 EROXX,https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
 PRIVATE,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
 DORCEL,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8
 Hustler,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
-http://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
+T00,http://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
 TELE 8http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 Eropulse TV,http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+T99,https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 Miami TV Sun Beach,http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
 Redlight,http://51.159.102.100/RedlightHD/index.m3u8
 PenthouseGold,http://51.159.102.100/PenthouseGold/index.m3u8
@@ -2283,11 +2283,11 @@ tiny4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/6258/index.m3u8
 3D,http://185.235.165.5:80/live/gasolina/gasolina/774013.ts
 PENTHOUSE,http://185.235.165.5:80/live/gasolina/gasolina/774002.ts
 Dsuki,http://185.235.165.5:80/live/gasolina/gasolina/774018.ts
-XYPlus HDhttp://ca.ukrainske.tv/6870/5FB414E1EC8D010/video.m3u8
-XYMax HDhttp://ca.ukrainske.tv/6871/5FB414E1EC8D010/video.m3u8
-XYMix HDhttp://ca.ukrainske.tv/6872/5FB414E1EC8D010/video.m3u8
-CineManExExExhttp://ca.ukrainske.tv/13020/5FB414E1EC8D010/video.m3u8
-CineManExExEx TWOhttp://ca.ukrainske.tv/13021/5FB414E1EC8D010/video.m3u8
+XYPlus HD,http://ca.ukrainske.tv/6870/5FB414E1EC8D010/video.m3u8
+XYMax HD,http://ca.ukrainske.tv/6871/5FB414E1EC8D010/video.m3u8
+XYMix HD,http://ca.ukrainske.tv/6872/5FB414E1EC8D010/video.m3u8
+CineManExExEx,http://ca.ukrainske.tv/13020/5FB414E1EC8D010/video.m3u8
+CineManExExEx TWO,http://ca.ukrainske.tv/13021/5FB414E1EC8D010/video.m3u8
 Only One Man In Japanese step Familys - LinkFull In My Frofile,http://12156.vod.redtraffic.xyz/ph5b5f2516e12a1/play.m3u8
 for brunette secretary with fake agent,http://11216.vod.adultiptv.net/ph59955c90e48af/play.m3u8
 BANG,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17675.ts
@@ -2304,8 +2304,8 @@ CRAZY ASIAN GF,http://likea8bitboss.xyz:80/6lives838/4708659213/761133
 rus,http://live.redtraffic.xyz/russian.m3u8
 hot boys,http://23.158.200.7/live/491175347448pw/906956704666/82166.ts
 angey,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17855.ts
-Phttp://152.89.62.76:8880/1msk040003/73378271/2983
-HUhttp://152.89.62.76:8880/1msk040003/73378271/2985
+P,http://152.89.62.76:8880/1msk040003/73378271/2983
+HU,http://152.89.62.76:8880/1msk040003/73378271/2985
 亚洲情色,http://iptvtree.net:8080/rush2/0c60e341/297828
 Japan HDV,http://iptvtree.net:8080/rush2/0c60e341/297792
 FAKE TAXI 1+,http://iptvtree.net:8080/rush2/0c60e341/297129
