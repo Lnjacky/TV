@@ -92,7 +92,7 @@
       "key": "仓库",
       "name": "🔞仓库",
       "type": 0,
-      "api": "t4t5t6t7.cdn2020.com/api/xml.php",
+      "api": "https://t4t5t6t7.cdn2020.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
