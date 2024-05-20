@@ -13,7 +13,7 @@
       ]
     }
   ],
- "sites": [
+  "sites": [
     {
       "key": "XMVideo",
       "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
@@ -23,25 +23,15 @@
       "filterable": 1
     },
     {
-      "key": "*仓库",
-      "name": "🔞仓库",
+      "key": "美少女",
+      "name": "🔞美少女",
       "type": 0,
-      "api": "http://777995.xyz/api.php/vodplay/",
+      "api": "https://http://777995.xyz/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
-       {
-"key":"lf_js_search",
-"name":"搜索",
-"type":3,
-"searchable":0,
-"changeable":1,
-"quickSearch":0,
-"filterable":0,
-"api":"./lib/lf_search3_min.js","ext":"18+"
-       },
-{
+    {
       "key": "push_agent",
       "name": "🛴┃手机┃推送",
       "type": 3,
