@@ -101,7 +101,7 @@
       "key": "*淫水机资源",
       "name": "🔞淫水机",
       "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
+      "api": "https://www.xrbsp.com/api.php/video/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
