@@ -38,22 +38,6 @@
         ]
       }
     },
- {
-      "key": "黄色仓库",
-      "name": "黄色仓库",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "drives": [
-          {
-            "name": "AV",
-            "server": "https://oy.oyxx-1.eu.grg/hs1.php?u=/vodplay"
-          }
-        ]
-      }
-    },
     {
       "key": "J91",
       "name": "\uD83D\uDD1E 91 | 珍惜",
