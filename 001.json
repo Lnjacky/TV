@@ -1,4 +1,21 @@
 {
+
+
+	//0730JAR
+	"spider": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
+
+
+
+
+
+
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "redirect",
+			"urls": ["proxy://do=live&type=txt&ext=https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/Q/千方直播.txt"]
+		}]
+	}],
   "sites": [
     {
       "key":"csp_Kunyu77",
@@ -8,7 +25,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
-    }，
+    },
     {
       "key": "❤91麻豆",
       "name": "❤91麻豆源",
