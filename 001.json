@@ -33,7 +33,7 @@
         "drives": [
           {
             "name": "SOD",
-            "server": "https://a.sodaz.xyz/NSFW"
+            "server": "https://a.sodaz.xyz"
           }
         ]
       }
